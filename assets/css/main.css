@@ -3525,12 +3525,14 @@ input, select, textarea {
 			}
 
 		#main .icon.alt {
+			background-color: rgb(190, 117, 250);
 			border-color: #dddddd;
-			color: #636363;
+			color: #ffffff;
 		}
 
 			#main .icon.alt:hover {
-				background-color: rgba(222, 222, 222, 0.25);
+				color: rgb(190, 117, 250);
+				background-color: rgba(222, 222, 222, 0.3);
 			}
 
 			#main .icon.alt:active {
